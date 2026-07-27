@@ -1,0 +1,19 @@
+{
+    "outputDirectory":  "public",
+    "headers":  [
+                    {
+                        "headers":  [
+                                        {
+                                            "key":  "Content-Disposition",
+                                            "value":  "attachment; filename=Claude-Token-Mastery-Guide.pdf"
+                                        },
+                                        {
+                                            "key":  "X-Content-Type-Options",
+                                            "value":  "nosniff"
+                                        }
+                                    ],
+                        "source":  "/Claude_Token_Mastery_Product.pdf"
+                    }
+                ],
+    "cleanUrls":  true
+}

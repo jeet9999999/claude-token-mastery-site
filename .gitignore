@@ -1,0 +1,7 @@
+# Only the deployable site is versioned.
+/*
+!/.gitignore
+!/.gitattributes
+!/vercel.json
+!/public/
+!/public/**
